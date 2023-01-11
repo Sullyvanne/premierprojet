@@ -9,3 +9,4 @@ l'apprentissage de Git et GitHub
 - Slider affichant une image à la fois, il permet de passer à l'image suivante
 ou de revenir à la précédente
 - Plusieurs articles sont présentés dans la page pour rediriger l'utilisateur vers de nouveaux onglets
+- Footer ajouté
