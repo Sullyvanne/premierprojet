@@ -7,6 +7,7 @@ h1 {
     padding: 0;
 }
 
+/*NAV BAR*/
 
 .dropdownmenu ul, .dropdownmenu li {
 	margin: 0;
@@ -62,6 +63,9 @@ li:hover ul#submenu {
 #submenu a {
 	background-color:#000000;
 }
+/*END NAV BAR*/
+
+/*SLIDER*/
 
 @import url(https://fonts.googleapis.com/css?family=Varela+Round);
 
@@ -180,6 +184,10 @@ input#img-6:checked ~ .nav-dots label#img-dot-6 {
 	background: rgba(0, 0, 0, 0.8);
 }
 
+/*END SLIDER*/
+
+/*ARTICLE LIST*/
+
 * {
 font-family: sans-serif;
 }
@@ -295,9 +303,13 @@ display: block;
 
 }
 
-/*END : RECOMMENDED ARTICLES*/
+/*END  ARTICLE LIST*/
+
+/*FOOTER*/
 
 footer {
     background: #30A6E6;
     text-align: center;
 }
+
+/*END FOOTER*/
